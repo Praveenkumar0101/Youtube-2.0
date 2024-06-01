@@ -8,7 +8,7 @@ const Navbar = () => (
   <Stack direction="row" alignItems="center" p={2} sx={{ position:  "sticky", background: '#000', top: 0, justifyContent: "space-between" }}>
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
       <img src={logo} alt="logo" height={45} />
-      <h2 style={{color:"red"}}><span style={{color:"blue"}}>Cold </span>fusion</h2>
+      <h2 style={{color:"red"}}><span style={{color:"blue"}}>Elite</span>Show</h2>
     </Link>
     <SearchBar />
   </Stack>
